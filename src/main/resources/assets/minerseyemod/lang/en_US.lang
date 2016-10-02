@@ -1,0 +1,9 @@
+# Items
+item.ingotMinersEyengot.name=Miners Eyengot
+item.minersMultiTool.name=Miners Multitool
+
+# Blocks
+tile.oreMinersEye.name=Miners Eye Ore
+
+#mod title
+itemGroup.minerseyemod=Miners Eye Mod

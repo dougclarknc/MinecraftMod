@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minerseyemod",
+  "name": "Miners Eye Mod",
+  "description": "For the miners eye",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["fuggsitsdouggs"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [mod_minecraftForge]
+}
+]
