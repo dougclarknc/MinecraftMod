@@ -8,6 +8,12 @@ import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
+/**
+ * 
+ * @author dougc
+ * @date Oct 2, 2016
+ * @version
+ */
 public class ModRecipes {
 	public static void addRecipes() {
 		//MinersEyeOre recipe
@@ -19,7 +25,7 @@ public class ModRecipes {
 		);
 		
 		//MinersMultitool recipe
-		GameRegistry.addRecipe(new ItemStack(ModItems.minersMultitool),
+		GameRegistry.addRecipe(new ItemStack(ModItems.minersMultiTool),
 				"AAA",
 				" B ",
 				" B ",

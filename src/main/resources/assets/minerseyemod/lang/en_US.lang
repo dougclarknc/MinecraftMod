@@ -7,3 +7,7 @@ tile.oreMinersEye.name=Miners Eye Ore
 
 #mod title
 itemGroup.minerseyemod=Miners Eye Mod
+
+# Items
+item.ingotCopper.name=Miners Eyengot
+item.minersMultiTool.name=Miners Multitool
