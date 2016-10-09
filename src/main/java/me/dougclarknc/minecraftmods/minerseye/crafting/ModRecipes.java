@@ -33,7 +33,7 @@ public class ModRecipes {
 			);		
 	
 		//MinersEyengot recipe
-		GameRegistry.addSmelting(ModBlocks.oreMinersEye, new ItemStack(ModItems.ingotMinersEyengot), 20F);
+		GameRegistry.addSmelting(ModBlocks.oreMinersEye, new ItemStack(ModItems.ingotMinersEyengot), 100F);
 
 	}
 }
