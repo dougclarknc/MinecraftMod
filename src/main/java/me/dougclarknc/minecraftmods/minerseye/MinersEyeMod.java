@@ -25,7 +25,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
  * @version
  */
 @Mod(modid = MinersEyeMod.MODID, name = MinersEyeMod.NAME,
-version = MinersEyeMod.VERSION, acceptedMinecraftVersions = "[1.10.2]")
+version = MinersEyeMod.VERSION, acceptedMinecraftVersions = "[1.10.2, 1.11.2]")
 public class MinersEyeMod {
 	public static final String MODID = "minerseyemod";
 	public static final String NAME = "Miners Eye Mod";

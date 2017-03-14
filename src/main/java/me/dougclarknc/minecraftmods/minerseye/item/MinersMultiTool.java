@@ -92,7 +92,6 @@ public class MinersMultiTool extends ItemTool implements ItemModelProvider{
 		}
 	}
 	
-	@Override
 	@SuppressWarnings("incomplete-switch")
 	public EnumActionResult onItemUse(ItemStack stack, EntityPlayer playerIn,
 			World worldIn, BlockPos pos, EnumHand hand, EnumFacing facing,
