@@ -8,10 +8,10 @@ import me.dougclarknc.minecraftmods.minerseye.item.ItemModelProvider;
 
 public class ModBlocks {
 	
-	public static BlockOre oreMinersEye;
+	public static BlockOre oreminerseye;
 	
 	public static void init() {
-		oreMinersEye = register(new BlockOre("oreMinersEye")
+		oreminerseye = register(new BlockOre("oreminerseye")
 				.setCreativeTab(CreativeTabs.MATERIALS));
 	}
 	

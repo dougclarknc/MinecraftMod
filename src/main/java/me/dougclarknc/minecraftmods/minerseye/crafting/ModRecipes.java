@@ -17,7 +17,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 public class ModRecipes {
 	public static void addRecipes() {
 		//MinersEyeOre recipe
-		GameRegistry.addRecipe(new ItemStack(ModBlocks.oreMinersEye),
+		GameRegistry.addRecipe(new ItemStack(ModBlocks.oreminerseye),
 			"AA ",
 			"A A",
 			"AA ",
@@ -25,15 +25,15 @@ public class ModRecipes {
 		);
 		
 		//MinersMultitool recipe
-		GameRegistry.addRecipe(new ItemStack(ModItems.minersMultiTool),
+		GameRegistry.addRecipe(new ItemStack(ModItems.minersmultitool),
 				"AAA",
 				" B ",
 				" B ",
-				'A', ModItems.ingotMinersEyengot, 'B', Items.STICK
+				'A', ModItems.ingotminerseyengot, 'B', Items.STICK
 			);		
 	
 		//MinersEyengot recipe
-		GameRegistry.addSmelting(ModBlocks.oreMinersEye, new ItemStack(ModItems.ingotMinersEyengot), 100F);
+		GameRegistry.addSmelting(ModBlocks.oreminerseye, new ItemStack(ModItems.ingotminerseyengot), 100F);
 
 	}
 }

@@ -1,6 +1,6 @@
 # Items
 item.ingotMinersEyengot.name=Miners Eyengot
-item.minersMultiTool.name=Miners Multitool
+item.minersMultiTool.name=Miners MultiTool
 
 # Blocks
 tile.oreMinersEye.name=Miners Eye Ore
@@ -10,4 +10,4 @@ itemGroup.minerseyemod=Miners Eye Mod
 
 # Items
 item.ingotCopper.name=Miners Eyengot
-item.minersMultiTool.name=Miners Multitool
+item.minersMultiTool.name=Miners MultiTool

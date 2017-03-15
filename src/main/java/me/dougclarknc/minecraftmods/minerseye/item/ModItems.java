@@ -13,16 +13,16 @@ import net.minecraft.creativetab.CreativeTabs;
  */
 public class ModItems {
 	
-	public static ItemBase ingotMinersEyengot;
-	public static MinersMultiTool minersMultiTool;
+	public static ItemBase ingotminerseyengot;
+	public static MinersMultiTool minersmultitool;
 
 	public static void init() {
-		ingotMinersEyengot = register(new
-				ItemBase("ingotMinersEyengot")
+		ingotminerseyengot = register(new
+				ItemBase("ingotminerseyengot")
 				.setCreativeTab(CreativeTabs.MATERIALS));
 		
-		minersMultiTool = register(new MinersMultiTool(
-				MinersEyeMod.minersEyeMaterial, "minersMultiTool")
+		minersmultitool = register(new MinersMultiTool(
+				MinersEyeMod.minersEyeMaterial, "minersmultitool")
 				.setCreativeTab(CreativeTabs.TOOLS));
 	}
 	

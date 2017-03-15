@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0":"minerseyemod:items/ingotMinersEyengot"
+        "layer0":"minerseyemod:items/ingotminerseyengot"
     }
 }
