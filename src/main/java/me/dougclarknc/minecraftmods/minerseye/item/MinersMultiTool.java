@@ -50,7 +50,7 @@ public class MinersMultiTool extends ItemTool implements ItemModelProvider{
 		setRegistryName(name);
 		setUnlocalizedName(name);
 		this.name = name;
-		//setCreativeTab(MinersEyeMod.creativeTab);
+//		setCreativeTab(MinersEyeMod.creativeTab);
 	}
 	
 	/**
